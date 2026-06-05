@@ -1,2 +1,7 @@
-# plataforma-academica
-Proyecto académico para practicar control de versiones con Git y GitHub.
+# Plataforma Académica Básica
+
+## Integrantes
+-Johana Andrea Salazar Ortiz
+
+## Descripción
+Proyecto académico para aprender Git y GitHub.
